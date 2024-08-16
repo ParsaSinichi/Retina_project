@@ -1,4 +1,4 @@
-# Age-Related Macular Degeneration (AMD) Detection: A Comparative Study
+# Comparison of handcrafted feature and deep features extracted from RETFound and RETFound green
 
 ## Introduction
 
